@@ -1,0 +1,251 @@
+header{
+  background-color: #34262B;
+  background: url(http://az616578.vo.msecnd.net/files/2016/08/13/636066549882747495-1101828340_tumblr_nlq6y7NbXC1rrvuzmo1_1280.jpg) no-repeat center center fixed;
+  -webkit-backgroung-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.more-space {
+  margin-bottom: 20%;
+}
+
+header h1{
+  color: #F50000;
+  font-size: 150px;
+}
+
+h1 {
+  font-family: 'Exo', sans-serif;
+}
+
+.break1, .break2, .contact h2, .contact h3, p, header h4{
+  font-family: 'Istok Web', sans-serif;
+}
+
+.intro {
+  margin-top: 12%;
+}
+
+header h4 {
+  color: #271F1F;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.red {
+  color: #C1292E;
+  font-weight: bold;
+}
+
+/**Nabvar Customs**/
+
+nav ul li {
+  font-size: 17px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.about-us a {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 25px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar-default{
+  background-color: #FDFFFC;
+  border: 0;
+}
+
+.navbar-default .navbar-brand{
+  margin-left: 5%;
+  color: #34262B;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #FDFFFC;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-text {
+  color: #FDFFFC;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #FDFFFC;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #F9F2F6;
+  background-color: transparent;
+  border-bottom: 1px solid #F9F2F6;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #F9F2F6;
+  background-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav > .disabled > a,
+.navbar-default .navbar-nav > .disabled > a:hover,
+.navbar-default .navbar-nav > .disabled > a:focus {
+  color: #F9F2F6;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #DDD;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ddd;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #888;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #555;
+  background-color: #e7e7e7;
+}
+
+.navbar-inner {
+  background: rgba(0, 0, 0, 0);
+}
+/**Navbar customs end**/
+
+/**SERVICES**/
+
+.works p {
+  margin-top: 10%;
+}
+
+.works h1{
+  font-size: 100px;
+  margin-top: 7%;
+  margin-bottom: 5%;
+}
+
+.thumbnail {
+  margin-bottom: 12%;
+}
+
+.thumbnail:hover {
+ -webkit-box-shadow: 2px 2px 2px 1px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+ -moz-box-shadow:    2px 2px 2px 1px #ccc;  /* Firefox 3.5 - 3.6 */
+ box-shadow:         2px 2px 2px 1px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.break1 {
+  background: url(http://blog.dentalcremer.com.br/wp-content/uploads/2016/06/sucess.jpg) center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.break2 {
+  background: url(http://www.cctl.cam.ac.uk/sites/www.cctl.cam.ac.uk/files/styles/carousel/public/homepage-carousel/ul_14566476702_o.jpg?itok=Y9XhJiaz) center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.break2 h3 {
+  color: #B91C1C;
+  font-size: 70px;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+.break1 h3 {
+  color: #FFF;
+  font-size: 70px;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+/***About us****/
+.about-us {
+  background-color: #34262B;
+}
+
+.about-us h1 {
+  color: #C1292E;
+  font-size: 100px;
+  margin-top: 7%;
+}
+
+.about-us-p {
+  font-size: 20px;
+  color: #FDFFFC;
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-top: 7%;
+  margin-bottom: 10%;
+}
+
+.descript {
+  margin-bottom: 15%;
+}
+
+.team {
+  margin-top: 25%;
+  border: 1px solid #FDFFFC;
+  padding: 20px 50px 20px 50px;
+  text-decoration: none;
+  color: #F9F2F6;
+}
+
+.team:hover {
+  text-decoration: none;
+  background: rgba(193, 41, 46, 0.4);
+  color: #F9F2F6;
+}
+
+/*CONTACT*/
+
+.contact {
+  background-color: #C1292E;
+}
+
+.contact h1 {
+  font-size: 100px;
+  margin-top: 7%;
+}
+
+/*FOOTER*/
+
+footer {
+  background: #34292B;
+}
+
+.go-up-icon i {
+  color: white;
+  font-size: 400%;
+  margin-top: 15%;
+  border: 1px solid white;
+  padding: 2% 4% 3% 4%;
+}
+
+footer p {
+  color: white;
+  padding-top: 37%;
+}
